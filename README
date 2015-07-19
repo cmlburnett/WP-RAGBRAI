@@ -1,0 +1,14 @@
+Transforms RAGBRAI route data into other formats
+Written and tested with Python 3.3
+
+By Colin ML Burnett
+July 19, 2015
+
+Supplied text file includes the routes from 1973 to 2015 and is a straight copy-paste from the wiki article.
+
+    https://en.wikipedia.org/wiki/List_of_RAGBRAI_overnight_stops 
+
+Simply feed this file to get the output:
+
+$ python3.3 ragbrai.py ragbrai.txt
+
